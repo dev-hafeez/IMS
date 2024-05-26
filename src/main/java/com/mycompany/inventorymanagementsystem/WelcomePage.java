@@ -9,14 +9,14 @@ public class WelcomePage extends JFrame {
     
     public WelcomePage() {
         
-        setTitle("Welcome");
+        setTitle("Inventory Management System");
         setSize(700, 700);
         setDefaultCloseOperation(3);
         setLocationRelativeTo(null);
         setLayout(new GridBagLayout());
         
         
-        JLabel welcomeLabel = new JLabel("Continue As...");
+        JLabel welcomeLabel = new JLabel("Proceed As:");
         welcomeLabel.setFont(new Font("Arial", Font.BOLD, 50));
         JButton adminButton = new JButton("Admin");
         JButton customerButton = new JButton("Customer");
