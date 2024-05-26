@@ -16,7 +16,7 @@ public class Customer extends JFrame {
         setLayout(new GridBagLayout());
         
         JLabel selectOption = new JLabel("Please select any option");
-        selectOption.setFont(new Font("Arial", Font.BOLD, 25));
+        selectOption.setFont(new Font("Calibri", Font.BOLD, 25));
         JButton buyProductButton = new JButton("Buy Product");
         JButton seeProductsButton = new JButton("See Products");
         JButton backButton = new JButton("Back");
