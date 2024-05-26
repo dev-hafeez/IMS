@@ -25,7 +25,7 @@ IDE (e.g., IntelliJ IDEA, Eclipse)
 
 **Installation**
 
-Clone the Repository
+**Clone the Repository**
 
 git clone https://github.com/yourusername/IMS.git
 
