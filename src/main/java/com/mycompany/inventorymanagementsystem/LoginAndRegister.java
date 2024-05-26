@@ -15,7 +15,7 @@ public class LoginAndRegister extends JFrame{
         setLayout(new GridBagLayout());
         
         JLabel loginOrRegister = new JLabel("Please login or register");
-        loginOrRegister.setFont(new Font("Arial", Font.BOLD, 25));
+        loginOrRegister.setFont(new Font("Calibri", Font.BOLD, 25));
         
         JButton loginButton = new JButton("Login");
         JButton registerButton = new JButton("Register");
