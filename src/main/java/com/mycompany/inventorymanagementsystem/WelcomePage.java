@@ -17,7 +17,7 @@ public class WelcomePage extends JFrame {
         
         
         JLabel welcomeLabel = new JLabel("Proceed As:");
-        welcomeLabel.setFont(new Font("Arial", Font.BOLD, 50));
+        welcomeLabel.setFont(new Font("Calibri", Font.BOLD, 50));
         JButton adminButton = new JButton("Admin");
         JButton customerButton = new JButton("Customer");
         
