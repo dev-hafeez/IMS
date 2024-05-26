@@ -6,6 +6,7 @@
 The Inventory Management System is a Java application designed to help businesses manage their inventory effectively. This system allows users to keep track of products, suppliers, and inventory levels, facilitating efficient stock management, order processing, and reporting.
 
 **Features**
+
 Product Management: Add, update, delete, and view products.
 
 Supplier Management: Manage supplier information and link products to suppliers.
@@ -31,4 +32,5 @@ git clone https://github.com/yourusername/IMS.git
 cd IMS
 
 **Contact**
+
 For any queries or support, please contact abbasi.kaleem2002@gmail.com
